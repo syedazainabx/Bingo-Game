@@ -1,0 +1,50 @@
+F:\VS projects\project\bin\Debug\project.exe.config
+F:\VS projects\project\bin\Debug\project.exe
+F:\VS projects\project\bin\Debug\project.pdb
+F:\VS projects\project\obj\Debug\project.csproj.AssemblyReference.cache
+F:\VS projects\project\obj\Debug\project.Form1.resources
+F:\VS projects\project\obj\Debug\project.Properties.Resources.resources
+F:\VS projects\project\obj\Debug\project.csproj.GenerateResource.cache
+F:\VS projects\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+F:\VS projects\project\obj\Debug\project.exe
+F:\VS projects\project\obj\Debug\project.pdb
+F:\VSprojects\project\bin\Debug\project.exe.config
+F:\VSprojects\project\bin\Debug\project.exe
+F:\VSprojects\project\bin\Debug\project.pdb
+F:\VSprojects\project\obj\Debug\project.csproj.AssemblyReference.cache
+F:\VSprojects\project\obj\Debug\project.Form1.resources
+F:\VSprojects\project\obj\Debug\project.Form2.resources
+F:\VSprojects\project\obj\Debug\project.Properties.Resources.resources
+F:\VSprojects\project\obj\Debug\project.csproj.GenerateResource.cache
+F:\VSprojects\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+F:\VSprojects\project\obj\Debug\project.exe
+F:\VSprojects\project\obj\Debug\project.pdb
+F:\VSprojects\project\obj\Debug\project.Form3.resources
+E:\project\bin\Debug\project.exe.config
+E:\project\bin\Debug\project.exe
+E:\project\bin\Debug\project.pdb
+E:\project\obj\Debug\project.Form1.resources
+E:\project\obj\Debug\project.Form2.resources
+E:\project\obj\Debug\project.Form3.resources
+E:\project\obj\Debug\project.Form4.resources
+E:\project\obj\Debug\project.Properties.Resources.resources
+E:\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\project\obj\Debug\project.exe
+E:\project\obj\Debug\project.pdb
+E:\project\obj\Debug\project.csproj.AssemblyReference.cache
+E:\project\obj\Debug\project.Form5.resources
+E:\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+E:\project\project\obj\Debug\project.exe
+E:\project\project\obj\Debug\project.pdb
+E:\project\project\bin\Debug\project.exe.config
+E:\project\project\bin\Debug\project.exe
+E:\project\project\bin\Debug\project.pdb
+E:\project\project\obj\Debug\project.Form1.resources
+E:\project\project\obj\Debug\project.Form2.resources
+E:\project\project\obj\Debug\project.Form3.resources
+E:\project\project\obj\Debug\project.Form4.resources
+E:\project\project\obj\Debug\project.Form5.resources
+E:\project\project\obj\Debug\project.Properties.Resources.resources
+E:\project\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
